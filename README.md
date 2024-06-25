@@ -56,5 +56,5 @@ The lowest mean squared error on validation set was for Support Vector Regressor
 | Training Data  | 0.0579  | 0.2407 | 0.1831 |
 | Testing Data | 0.0982  | 0.3134 | 0.2342 |
 
-All of our models are performing better than the trivial system model in terms of MSE, RMSE
+All of our models are performed better than the trivial system model in terms of MSE, RMSE
 and MAE on training as well as validation data.
