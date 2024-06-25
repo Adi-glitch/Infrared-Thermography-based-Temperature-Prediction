@@ -40,7 +40,7 @@ After the data preprocessing, feature engineering and dimensionality reduction, 
 
 The lowest mean squared error on validation set was for Support Vector Regressor, so we chose that as our final system to test on the test set.
 
-# Table 26: Performance Metrics for Final System (SVR with RBF) with Normalization only
+# Table: Performance Metrics for Final System (SVR with RBF) with Normalization only
 
 |   | MSE | RMSE | MAE |
 | ------------- | ------------- | ------------- | ------------- |
@@ -49,7 +49,7 @@ The lowest mean squared error on validation set was for Support Vector Regressor
 
    
    
-# Table 27: Performance Metrics for Final System (SVR with RBF) with Normalization, PCA, and Feature Selection
+# Table: Performance Metrics for Final System (SVR with RBF) with Normalization, PCA, and Feature Selection
 
 |   | MSE | RMSE | MAE |
 | ------------- | ------------- | ------------- | ------------- |
